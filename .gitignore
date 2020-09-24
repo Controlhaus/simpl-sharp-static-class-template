@@ -7,6 +7,9 @@ SPlsWork
 *.sgd2
 *.sm2
 *.zip
+*.lpz
+*.sig
+*.smft
 !graphics/*.Core3/*.zip
 *CrosspointList.txt
 /Program/SPlsWork
