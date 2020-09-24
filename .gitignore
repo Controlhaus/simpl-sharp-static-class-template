@@ -1,0 +1,12 @@
+SPlsWork
+*.asv
+*.ASV
+*.ced
+*.err
+*.hash
+*.sgd2
+*.sm2
+*.zip
+!graphics/*.Core3/*.zip
+*CrosspointList.txt
+/Program/SPlsWork
